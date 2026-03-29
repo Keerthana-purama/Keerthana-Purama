@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthana-purama)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanapurama@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://keerthana-purama.github.io/Portfolio])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthana-purama.github.io/Portfolio)
 [![Resume](https://img.shields.io/badge/Resume-1B2A4A?style=for-the-badge&logo=readme&logoColor=white)](https://your-resume-link.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keerthanapurama&color=2563EB&style=flat-square&label=Profile+Views)
